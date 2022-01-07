@@ -1,9 +1,9 @@
-# GerenciadorDeBiblioteca
+# Gerenciador De Biblioteca. (Back-End)
 
 Projeto desenvolvido apartir de um  desafio do site devchallenge.com.br!
 
 <p align="center">Codigos</p>
-<img src="/home/usuario/Área de Trabalho/Link para biblioteca.png" alt="Codigos" width="200">
+<img src="https://i.pinimg.com/originals/69/20/06/6920069dc1184bf80b6798cc0e73aa54.jpg" alt="Codigos" width="200">
 
 
 
